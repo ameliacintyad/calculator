@@ -78,3 +78,9 @@ button:hover{
     background-color: #FFC0CB;
     box-shadow: inset -5px -5px 12px #FFC0CB, 5px 5px 12px rgba(0,0,0,0.16);
 }
+
+/* color tombol ac & del */
+.del{
+    background-color: #FFDAB9;
+    box-shadow: inset -5px -5px 12px #FFDAB9, 5px 5px 12px rgba(0,0,0,0.16);
+}
